@@ -1,0 +1,32 @@
+{
+  "name": "seq-index",
+  "version": "1.0.0",
+  "description": "Generate sequential indexes",
+  "main": "lib/seq-index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andris9/seq-index.git"
+  },
+  "keywords": [
+    "sequential",
+    "id"
+  ],
+  "author": "Andris Reinman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andris9/seq-index/issues"
+  },
+  "homepage": "https://github.com/andris9/seq-index#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-nodeunit": "^1.0.0",
+    "grunt-eslint": "^19.0.0"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
