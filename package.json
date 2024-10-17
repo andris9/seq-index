@@ -15,7 +15,7 @@
     "id"
   ],
   "author": "Andris Reinman",
-  "license": "MIT",
+  "license": "(MIT OR EUPL-1.1+)",
   "bugs": {
     "url": "https://github.com/andris9/seq-index/issues"
   },
