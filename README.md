@@ -50,4 +50,6 @@ var id = shortId + indexer.suffix;
 
 ## License
 
-**MIT**
+Dual license **MIT or EUPL-1.1+**
+
+> `seq-index` is part of the Zone Mail Suite (ZMS). Suite of programs and modules for an efficient, fast and modern email server.
